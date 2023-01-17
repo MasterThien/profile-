@@ -16,7 +16,7 @@ body {
     position: relative;
     scroll-behaviour: smooth;
     font-family: ZCOOL QingKe HuangYou;
-    background: Silver
+    background: SlateGray1
 }
 
 .Border {
@@ -27,7 +27,7 @@ body {
     padding-bottom: 80px;
     background-color: #222;
     text-align: center;
-    background-color: Silver;
+    background-color: SlateGray1;
     padding: 0px;
     margin: 8px;
     border-style: double;
@@ -157,7 +157,7 @@ body {
 }
 
 .Blob {
-    background: Silver;
+    background: SlateGray1;
     border-radius: 50%;
     margin: 10px;
     height: 150px;
